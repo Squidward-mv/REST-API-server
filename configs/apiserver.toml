@@ -1,2 +1,4 @@
 bind_addr = ":8080"
 log_level = "debug"
+database_url = "something db"
+sessionkey = "something key"
